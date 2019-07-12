@@ -14,7 +14,7 @@ defmodule CredoAlphabetize.MixProject do
         source_ref: "v#{@version}",
         source_url: "https://github.com/gabrieltaylor/credo_alphabetize"
       ],
-      elixir: "~> 1.9",
+      elixir: "~> 1.6",
       homepage_url: "https://github.com/mirego/credo_alphabetize",
       name: "CredoAlphabetize",
       package: package(),
